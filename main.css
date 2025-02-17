@@ -31,7 +31,7 @@ header {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    background-color: white;
+    background-color: whitesmoke;
 }
 
 .head {
@@ -181,6 +181,7 @@ footer {
     color: #fff;
     padding: 2rem;
     text-align: center;
+    background-color: whitesmoke;
 }
 
 footer h4 {
